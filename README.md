@@ -22,13 +22,12 @@ Este ebook visa inspirar uma nova geração de tutores comprometidos e informado
   
   
 ## ✨ Conteúdo:
-Introdução: O Poder da Adoção
-As Vantagens da Adoção de Pets
-Dicas para uma Adoção de Sucesso
-Adoção: Um Ato de Amor
-Junte-se à Causa
-Guia para Adoção Responsável: Como Adotar e Cuidar de um Pet
-Conclusão: Faça a Diferença
+
+1-As Vantagens da Adoção de Pets
+2-Dicas para uma Adoção de Sucesso
+3-Adoção: Um Ato de Amor
+4-Junte-se à Causa
+5-Conclusão: Faça a Diferença
 
 - Formato: PDF
   
