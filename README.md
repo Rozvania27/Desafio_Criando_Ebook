@@ -6,7 +6,7 @@
 
 Bem-vindos ao repositório do ebook "Laços Inquebráveis: A Épica da Adoção de Pets".
 
-Embarque em uma jornada emocionante pelo universo da adoção de animais de estimação. Este guia abrangente oferece informações valiosas sobre como adotar um pet e oferecer a ele um lar repleto de amor e cuidados.
+Embarque em uma jornada emocionante pelo universo da adoção de animais de estimação. Este ebook abrangente oferece informações valiosas sobre como adotar um pet e oferecer a ele um lar repleto de amor e cuidados.
 
 
 ## 📒 Sobre o Ebook
